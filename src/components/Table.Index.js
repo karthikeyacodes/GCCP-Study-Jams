@@ -75,7 +75,7 @@ function TableIndex() {
             <td className="rounded-ss-lg w-80 p-2 border-r-2 border-r-gray-300">Name</td>
             {/* <td className="p-2 border-r-2 border-r-gray-300">Email</td> */}
             <td className="p-2 border-r-2 border-r-gray-300">Redemption Status</td>
-            <td className="mob:hidden p-2 px-10 border-r-2 border-r-gray-300">Institution</td>
+            {/* <td className="mob:hidden p-2 px-10 border-r-2 border-r-gray-300">Institution</td> */}
             <td className="mob:rounded-se-lg p-2 border-r-2 border-r-gray-300 max-w-[150px]">Completions of both Pathways</td>
             <td className="mob:hidden p-2 border-r-2 border-r-gray-300 max-w-[150px]">No Courses Completed</td>
             <td className="mob:hidden p-2 border-r-2 border-r-gray-300 max-w-[150px]">No Skill Badges Completed</td>

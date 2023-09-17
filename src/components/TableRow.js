@@ -21,7 +21,7 @@ function TableRow({ participant }) {
                 </div>
             </td>
 
-            <td className="Institution mob:hidden relative p-3">
+            {/* <td className="Institution mob:hidden relative p-3">
                 <div
                     className={`m-auto w-fit rounded-3xl px-2 py-1 text-center ${participant["Institution"] ==
                         "U. V. Patel College of Engineering - Mehsana"
@@ -34,7 +34,7 @@ function TableRow({ participant }) {
                         ? "UVPCE"
                         : "Other"}
                 </div>
-            </td>
+            </td> */}
 
 
             <td className="Completions_both_Pathways_relative p-3 text-center">
